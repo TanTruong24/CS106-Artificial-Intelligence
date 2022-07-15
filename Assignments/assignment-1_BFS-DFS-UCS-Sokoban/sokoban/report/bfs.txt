@@ -1,0 +1,53 @@
+D:\HK6\CS106\bt\assignment-1\sokoban\sokoban>python Sokoban.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.8.8)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+cost bfs: 12
+Runtime of bfs level 1: 0.23 second.
+['r', 'U', 'U', 'd', 'R', 'd', 'r', 'U', 'U', 'l', 'u', 'L']
+cost bfs: 9
+Runtime of bfs level 2: 0.01 second.
+['U', 'U', 'd', 'd', 'r', 'r', 'r', 'U', 'U']
+cost bfs: 15
+Runtime of bfs level 3: 0.32 second.
+['L', 'r', 'd', 'r', 'd', 'd', 'D', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R']
+cost bfs: 7
+Runtime of bfs level 4: 0.01 second.
+['l', 'l', 'l', 'd', 'R', 'R', 'R']
+cost bfs: 20
+Runtime of bfs level 5: 334.17 second.
+['u', 'l', 'u', 'R', 'R', 'd', 'r', 'U', 'U', 'U', 'd', 'l', 'L', 'U', 'd', 'L', 'd', 'l', 'U', 'U']
+cost bfs: 19
+Runtime of bfs level 6: 0.03 second.
+['d', 'l', 'l', 'u', 'R', 'd', 'r', 'U', 'U', 'U', 'd', 'd', 'r', 'r', 'u', 'u', 'u', 'l', 'L']
+cost bfs: 21
+Runtime of bfs level 7: 2.00 second.
+['L', 'U', 'U', 'U', 'l', 'u', 'R', 'd', 'd', 'd', 'd', 'L', 'd', 'l', 'U', 'U', 'U', 'U', 'l', 'u', 'R']
+cost bfs: 97
+Runtime of bfs level 8: 0.36 second.
+['l', 'l', 'D', 'D', 'D', 'D', 'D', 'D', 'l', 'd', 'd', 'd', 'r', 'r', 'u', 'u', 'L', 'u', 'u', 'u', 'u', 'u', 'u', 'u', 'r', 'r', 'd', 'L', 'u', 'l', 'D', 'D', 'D', 'D', 'D', 'D', 'l', 'l', 'l', 'd', 'd', 'r', 'r', 'U', 'd', 'l', 'l', 'u', 'u', 'r', 'R', 'd', 'd', 'd', 'r', 'r', 'u', 'u', 'L', 'U', 'U', 'U', 'U', 'U', 'U', 'l', 'u', 'R', 'd', 'd', 'd', 'd', 'd', 'd', 'd', 'r', 'd', 'd', 'l', 'l', 'u', 'U', 'd', 'l', 'l', 'u', 'u', 'r', 'R', 'd', 'r', 'U', 'U', 'U', 'U', 'U', 'U']
+cost bfs: 8
+Runtime of bfs level 9: 0.03 second.
+['d', 'l', 'U', 'd', 'l', 'l', 'U', 'R']
+cost bfs: 33
+Runtime of bfs level 10: 0.03 second.
+['d', 'l', 'U', 'r', 'r', 'r', 'd', 'L', 'u', 'l', 'l', 'd', 'd', 'r', 'U', 'l', 'u', 'R', 'u', 'u', 'l', 'D', 'r', 'd', 'd', 'r', 'r', 'u', 'L', 'd', 'l', 'U', 'U']
+cost bfs: 34
+Runtime of bfs level 11: 0.03 second.
+['r', 'D', 'l', 'd', 'd', 'r', 'r', 'r', 'u', 'u', 'L', 'L', 'r', 'r', 'd', 'd', 'l', 'l', 'U', 'd', 'r', 'r', 'u', 'u', 'l', 'u', 'l', 'l', 'D', 'R', 'd', 'd', 'l', 'U']
+cost bfs: 23
+Runtime of bfs level 12: 0.17 second.
+['r', 'r', 'D', 'u', 'l', 'l', 'd', 'R', 'R', 'u', 'r', 'D', 'r', 'd', 'd', 'l', 'l', 'U', 'R', 'u', 'u', 'l', 'D']
+cost bfs: 31
+Runtime of bfs level 13: 0.27 second.
+['d', 'r', 'r', 'd', 'r', 'r', 'u', 'L', 'L', 'u', 'u', 'r', 'D', 'D', 'u', 'l', 'l', 'l', 'd', 'R', 'l', 'd', 'd', 'r', 'r', 'u', 'U', 'r', 'r', 'd', 'L']
+cost bfs: 23
+Runtime of bfs level 14: 5.19 second.
+['u', 'l', 'l', 'D', 'L', 'd', 'R', 'u', 'u', 'r', 'r', 'd', 'L', 'L', 'r', 'r', 'd', 'd', 'l', 'U', 'r', 'u', 'L']
+cost bfs: 105
+Runtime of bfs level 15: 0.49 second.
+['r', 'd', 'd', 'L', 'r', 'u', 'u', 'l', 'D', 'l', 'D', 'D', 'D', 'r', 'd', 'L', 'L', 'd', 'l', 'l', 'u', 'R', 'u', 'R', 'l', 'd', 'd', 'r', 'U', 'r', 'U', 'U', 'U', 'l', 'u', 'R', 'R', 'R', 'd', 'L', 'u', 'l', 'D', 'D', 'D', 'r', 'd', 'L', 'L', 'd', 'l', 'l', 'u', 'R', 'u', 'R', 'l', 'd', 'd', 'r', 'U', 'r', 'U', 'U', 'U', 'l', 'u', 'R', 'd', 'd', 'd', 'd', 'l', 'l', 'u', 'R', 'd', 'r', 'U', 'U', 'U', 'r', 'r', 'u', 'u', 'l', 'D', 'r', 'd', 'L', 'u', 'L', 'D', 'D', 'D', 'r', 'd', 'L', 'L', 'u', 'l', 'D', 'r', 'd', 'L']
+cost bfs: 34
+Runtime of bfs level 16: 43.40 second.
+['R', 'u', 'r', 'r', 'd', 'd', 'd', 'd', 'l', 'D', 'R', 'u', 'u', 'u', 'u', 'L', 'L', 'L', 'r', 'd', 'R', 'D', 'r', 'd', 'd', 'l', 'L', 'd', 'l', 'l', 'U', 'U', 'd', 'R']
+
+D:\HK6\CS106\bt\assignment-1\sokoban\sokoban>
